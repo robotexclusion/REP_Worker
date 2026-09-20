@@ -1,0 +1,7 @@
+name = "rep-crawler-index"
+main = "src/index.js"
+compatibility_date = "2026-09-20"
+
+[[r2_buckets]]
+binding = "DATA"
+bucket_name = "repcrawlerdatapublic"
